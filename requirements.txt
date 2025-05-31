@@ -13,3 +13,4 @@ torchinfo
 langchain-core
 langchain-community
 langchain_groq
+bs4
